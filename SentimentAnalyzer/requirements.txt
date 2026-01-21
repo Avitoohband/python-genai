@@ -1,0 +1,6 @@
+torch
+gradio
+transformers
+pandas
+matplotlib
+openpyxl
